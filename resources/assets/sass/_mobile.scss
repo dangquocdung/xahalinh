@@ -1,0 +1,132 @@
+/*
+ * Off Canvas
+ * --------------------------------------------------
+ */
+
+@media screen and (max-width: 768px) {
+  // body{
+  //   padding-top: 115px;
+  // }
+
+  .navbar{
+    //margin-bottom: 5px;
+    .navbar-collapse{
+      padding-left: 10px;
+    }
+
+  }
+
+
+
+  .navbar-toggle {
+    position: relative;
+    float: right;
+
+    margin-top: 20px;
+    margin-bottom: 15px;
+    background-color: #f1b900;
+    background-image: none;
+    border: 1px solid #f0ad4e;
+    border-radius: 2px;
+    opacity: 0.8;
+  }
+
+  .header-banner-slide {
+    height: 60px; }
+
+  .carousel-inner {
+    .item{
+      img{
+        margin: 0 auto;
+      }
+    }
+  }
+
+  .row-offcanvas {
+    position: relative;
+    -webkit-transition: all .25s ease-out;
+         -o-transition: all .25s ease-out;
+            transition: all .25s ease-out;
+  }
+
+  .row-offcanvas-right {
+    right: 0;
+  }
+
+  .row-offcanvas-left {
+    left: 0;
+  }
+
+  .row-offcanvas-right
+  .sidebar-offcanvas {
+    right: -50%; /* 6 columns */
+  }
+
+  .row-offcanvas-left
+  .sidebar-offcanvas {
+    left: -50%; /* 6 columns */
+  }
+
+  .row-offcanvas-right.active {
+    right: 50%; /* 6 columns */
+  }
+
+  .row-offcanvas-left.active {
+    left: 50%; /* 6 columns */
+  }
+
+  .sidebar-offcanvas {
+    position: absolute;
+    top: 0;
+    width: 50%; /* 6 columns */
+  }
+
+
+  #googleMap {
+      height: 200px;
+      width: 100%;
+  }
+
+  .chi-tiet-tin{
+    .noi-dung{
+      p {
+        img {
+          max-width: 100%;
+        }
+      }
+      table {
+        tr{
+          th{
+            text-align: center; /* center checkbox horizontally */
+            vertical-align: middle; /* center checkbox vertically */
+          }
+          td{
+            text-align: center; /* center checkbox horizontally */
+            vertical-align: middle; /* center checkbox vertically */
+
+            img {
+              max-width: 100%;
+            }
+          }
+        }
+
+        tbody{
+          tr{
+            th{
+              text-align: center; /* center checkbox horizontally */
+              vertical-align: middle; /* center checkbox vertically */
+            }
+            td{
+              text-align: center; /* center checkbox horizontally */
+              vertical-align: middle; /* center checkbox vertically */
+
+              img {
+                max-width: 100%;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

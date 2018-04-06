@@ -1,0 +1,31 @@
+
+
+
+<div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 600px; height: 100px;">
+    <!-- Slides Container -->
+    <div u="slides" style="cursor: move; position: absolute; overflow: hidden; left: 0px; top: 0px; width: 600px; height: 100px;">
+<<<<<<< HEAD
+        <div><img u="image" src="./images/banner/1.png" /></div>
+        <div><img u="image" src="./images/banner/2.png" /></div>
+        <div><img u="image" src="./images/banner/3.png" /></div>
+=======
+        <div>
+            <a href="">
+                <img u="image" src="./images/banner/1.png" />
+            </a>
+        </div>
+        <div>
+            <a href="">
+                <img u="image" src="./images/banner/2.png" />
+            </a>
+        </div>
+        <div>
+            <a href="">
+                <img u="image" src="./images/banner/3.png" />
+            </a>
+        </div>
+>>>>>>> a3b696a5ed5913845daf97232c6fe641a35d22ea
+    </div>
+    <!-- Trigger -->
+    <script>jssor_slider1_init('slider1_container');</script>
+</div>
