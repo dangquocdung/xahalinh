@@ -81,6 +81,12 @@
   <a class="dichvucong" href="http://qppl.hatinh.gov.vn/vbpq_hatinh.nsf" target="_blank">
     <img class="img-responsive" src="./img/banner-right/4.jpg" style="display:block; margin:0 auto" width="100%">
   </a>
+  <a class="dichvucong" href="http://truyenthanh.mayviet.net" target="_blank">
+    <img class="img-responsive" src="http://ict.hatinh.gov.vn/images/2018-04-09529289-hinh-anh-vno.jpg" style="display:block; margin:0 auto" width="100%">
+  </a>
+  <a class="dichvucong" href="http://qlccvc.hatinh.gov.vn" target="_blank">
+    <img class="img-responsive" src="http://sonoivu.hatinh.gov.vn/snv/static/plugin_box/avatar/box.avatar.a3216339f301240d.7175616e6c792e6a7067.jpg" style="display:block; margin:0 auto" width="100%">
+  </a>
 </div>
 
 
