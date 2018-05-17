@@ -15,16 +15,12 @@ return [
     'name' => 'Trang Thông tin điện tử xã Hà Linh',
     'diachi' => 'xã Hà Linh - huyện Hương Khê',
     'dienthoai' => '(0239) 88888888',
-<<<<<<< HEAD
     'email' => 'xahalinh@hatinh.gov.vn',
-=======
-    'email' => 'xahuongdo',
->>>>>>> dd4094378a70ec17b605a2995e18bdc807c6ae25
     'cio' => 'Nguyễn Văn A',
     'brand' => 'halinh',
     'toado' => '18.335534, 105.906581',
     'huyen' => 'huongkhe',
-    'banquyen' => 'xã Hương Đô',
+    'banquyen' => 'xãHà Linh',
 
     /*
     |--------------------------------------------------------------------------
